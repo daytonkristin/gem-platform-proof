@@ -22,3 +22,6 @@ Self-hosted FastAPI + SQLite policy routing with product-scoped offline SIG1 Ed2
 **Publisher:** VeriProof Systems · **Founder:** Kristin · **Support:** ailoopguard.support@gmail.com
 
 The commercial ZIP, license signing keys, buyer records, and private implementation are not hosted here. Actual inference requires a compatible configured model endpoint. Offline operation requires local dependencies and models.
+
+## Rights and evaluation
+See [RIGHTS.md](RIGHTS.md) and the [public rights policy](https://daytonkristin.github.io/veriproof/rights.html). Existing permissions and lawful exceptions remain unaffected. No new general software or model-training license is granted.

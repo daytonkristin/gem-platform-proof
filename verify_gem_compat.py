@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Public evaluation only; rights reserved to the extent owned or controlled.
+# Existing grants and lawful exceptions preserved. See RIGHTS.md.
 """Public, standard-library-only, pre-purchase gem-platform environment check.
 
 Optional network probes send a synthetic prompt to BOTH configured model IDs.

@@ -25,3 +25,6 @@ The repository `proof-pack/` folder additionally holds a reproducible offline de
 
 Product: https://ailoopguard.gumroad.com/l/gruqi
 Support: ailoopguard.support@gmail.com
+
+## Rights and evaluation
+See [RIGHTS.md](RIGHTS.md) and the [public rights policy](https://daytonkristin.github.io/veriproof/rights.html). Existing permissions and lawful exceptions remain unaffected. No new general software or model-training license is granted.
